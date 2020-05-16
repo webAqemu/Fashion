@@ -7,6 +7,9 @@ $(document).ready(function () {
       el: '.swiper-pagination',
       clickable: true,
     },
+    autoplay: {
+      delay: 3000,
+    },
   });
 
   var mySwiper = new Swiper('.instagram__swiper-container', {
