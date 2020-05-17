@@ -8,7 +8,7 @@ $(document).ready(function () {
       clickable: true,
     },
     autoplay: {
-      delay: 3000,
+      delay: 5000,
     },
   });
 
